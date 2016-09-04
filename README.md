@@ -14,3 +14,6 @@ We hope that this repository grow into a wider collection of resources
 around well-being, so feel free to
 [create an issue](https://github.com/erikr/well-being/issues) if you
 see something that might fit in here.
+
+If you organise or attend events, you may also be interested in Erik's
+[Less Obvious Conference Checklist](https://github.com/erikr/lessobviouschecklist/).
