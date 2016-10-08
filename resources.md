@@ -47,6 +47,8 @@ _Not all of the descriptions below may be entirely accurate._
   on how he stays happy in open source
 - [Just make it already](http://closetcasefiles.com/just-make-it-already-how-to-boost-your-sewing-confidance/).
   It's about sewing, but applies just as much to development and imposter syndrome.
+- [The Power of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability)
+- [The Power of Secrets](https://sarahwithee.com/talks/the-power-of-secrets/)
 
 
 ## Little comics/drawings
